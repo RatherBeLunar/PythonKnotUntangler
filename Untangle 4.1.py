@@ -848,21 +848,6 @@ auto=0
 knot=[1,-2,3,-4,5,-6,7,-1,8,-9,10,-11,12,-13,-14,-5,15,-3,16,-17,9,18,19,14,20,-16,21,-8,22,-7,2,-21,17,-10,23,-24,25,-19,6,-15,4,-20,26,-12,27,-25,28,-23,11,-26,13,-27,24,-28,-18,-22]
 
 
-#Gauss Code Standardization for large list
-
-#File=open("C:\Users\Brian\Google Drive\Knot Theory Independent Work\Gauss Codes.txt","r")
-##File2=open("C:\Users\Brian\Google Drive\Knot Theory Independent Work\Standardized Codes.txt","w")
-#
-#for line in File:
-#    knot=eval(line)
-#    unTangle()
-#    raw_input()
-#    #File2.write(str(knot)+'\n')
-#    if knot==[]:
-#        File.close()
-#        #File2.close()
-#        break
-
 
 
 
